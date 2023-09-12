@@ -1,4 +1,6 @@
-### Hi there 👋
+### hello. 👋
+I am currently enrolled in the Department of Applied Statistics at Gachon University.
+I started learning coding in 2023.
 
 <!--
 **kyh1103/kyh1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
